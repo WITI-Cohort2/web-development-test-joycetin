@@ -1,0 +1,7 @@
+JOYCE
+a) Elements are tags in html used to open and enclose a given piece of work.
+b) Attributes are features that describes the wor in a given element.  
+c) Selectors are attributes in css used to design a whole page.
+d) Semantic elements are elements used to give meaning to your work.
+e) Web accessibility is the process by which web pages are made easy to go through and access by both people with disabilities and those without disabilities.
+f) Web server is a computer which facilitates the easy access of web pages.
